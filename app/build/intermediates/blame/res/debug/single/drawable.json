@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\formaturaicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\formaturaicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_dialog_window.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\41281481c2a94d4385c2c38b96195d49ae383651\\output\\res\\drawable\\material_dialog_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outrospbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\outrospbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\literaturaicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\literaturaicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\41281481c2a94d4385c2c38b96195d49ae383651\\output\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\festivalpbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\festivalpbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\criancapbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\criancapbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_forward_white_24dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\ic_arrow_forward_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\formaturapbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\formaturapbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gastronomiapbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\gastronomiapbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casamentopbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\casamentopbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\751248b6792bc9bff0c3f695dc202035c8a4b39a\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baricon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\baricon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corporativopbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\corporativopbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\festasicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\festasicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android2.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\android2.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\41281481c2a94d4385c2c38b96195d49ae383651\\output\\res\\drawable\\material_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\e7d900a8f8140ef90fb73c720bf314cec35f8f6f\\output\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventosculturaispbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\eventosculturaispbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outrosicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\outrosicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurantepbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\restaurantepbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventosculturaisicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\eventosculturaisicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\751248b6792bc9bff0c3f695dc202035c8a4b39a\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\urbanopbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\urbanopbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cinemapbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\cinemapbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gastronomiaicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\gastronomiaicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exposicaoicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\exposicaoicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\festapbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\festapbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card_nos.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\41281481c2a94d4385c2c38b96195d49ae383651\\output\\res\\drawable\\material_card_nos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feiraspbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\feiraspbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\literaturapbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\literaturapbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casamentoicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\casamentoicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\urbanoicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\urbanoicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barpbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\barpbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aoarlivreicon_01_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\aoarlivreicon_01_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aoarlivrepbicon_01_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\aoarlivrepbicon_01_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\festivaicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\festivaicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_progress_bar.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\criancaicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\criancaicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cinemaicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\cinemaicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\751248b6792bc9bff0c3f695dc202035c8a4b39a\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\socialicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\socialicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card_nos_pressed.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\41281481c2a94d4385c2c38b96195d49ae383651\\output\\res\\drawable\\material_card_nos_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exposicaopbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\exposicaopbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\socialpbicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\socialpbicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_local_phone_gold_48dp.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\ic_local_phone_gold_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feirasicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\feirasicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corporativoicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\corporativoicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restauranteicon_01.png",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\restauranteicon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Yuri Oliveira\\.android\\build-cache\\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\\output\\res\\drawable\\abc_list_focused_holo.9.png"
+    }
+]

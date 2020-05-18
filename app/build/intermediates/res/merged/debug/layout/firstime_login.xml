@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background2"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+
+        <TextView
+            android:id="@+id/categText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:shadowColor="#000"
+            android:shadowDx="10"
+            android:shadowDy="10"
+            android:shadowRadius="4"
+            android:text="@string/selecione_3_categorias"
+            android:textColor="#fff"
+            android:textSize="25sp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TableLayout
+                android:id="@+id/tableLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:stretchColumns="*">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/arlivre"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/aoarlivrepbicon_01_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/bar"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/barpbicon_01" />
+
+
+                </TableRow>
+
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/casamento"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/casamentopbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/cinema"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/cinemapbicon_01" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/corporativo"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/corporativopbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/crianca"
+                        android:layout_width="150dp"
+                        android:layout_height="170dp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/criancapbicon_01" />
+                </TableRow>
+
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/evento_cultural"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/eventosculturaispbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/exposicao"
+                        android:layout_width="15sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/exposicaopbicon_01" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/feiras"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/feiraspbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/festas"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/festapbicon_01" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/festival"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/festivalpbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/formatura"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/formaturapbicon_01" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/gastronomia"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/gastronomiapbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/literatura"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/literaturapbicon_01" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/restaurante"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/restaurantepbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/social"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/socialpbicon_01" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp">
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/urbano"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/urbanopbicon_01" />
+
+                    <com.example.cttarde.tcc_wissen.viacep.CheckableImageButao
+                        android:id="@+id/outros"
+                        android:layout_width="150sp"
+                        android:layout_height="170sp"
+                        android:backgroundTint="#00000000"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/outrospbicon_01" />
+
+                </TableRow>
+
+            </TableLayout>
+        </ScrollView>
+
+
+    </LinearLayout>
+    <include layout="@layout/float_button"/>
+
+
+</FrameLayout>
+

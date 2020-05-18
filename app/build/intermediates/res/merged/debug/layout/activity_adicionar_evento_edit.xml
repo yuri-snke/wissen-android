@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_top"
+        android:layout_height="55dp"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@drawable/background2"
+        android:elevation="30dp">
+
+
+        <TextView
+            android:shadowColor="#000"
+            android:shadowDx="10"
+            android:shadowDy="10"
+            android:shadowRadius="4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Editar Evento"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+            android:textSize="30dp"
+            android:id="@+id/toolbar_title" />
+
+
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="60dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <!--####################### Titulo do Evento #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_event_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_titulo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Título do Evento"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/titulo_editText_"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_person_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_responsavel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Responsável"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/responsavel_editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+
+            <!--####################### Descrição #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_description_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_descricao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Descrição"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/descricao_editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:gravity="top"
+                android:lines="15"
+                android:padding="15dp"
+                android:textColor="#fff" />
+
+
+
+
+            <!--####################### Categorias #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_dashboard_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_categorias"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Categorias"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+
+            <Spinner
+                android:id="@+id/categoria_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:popupBackground="#E0000000" />
+
+
+            <Spinner
+                android:id="@+id/categoria_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:popupBackground="#E0000000" />
+
+
+            <Spinner
+                android:id="@+id/categoria_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:popupBackground="#E0000000" />
+
+
+            <!--####################### Data #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_date_range_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_inicio_data"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Início"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_inicio_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="dd/mm/aaaa"
+                android:inputType="date"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_date_range_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_termino_data"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Término"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_termino_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="dd/mm/aaaa"
+                android:inputType="date"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <!--####################### Horario #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_access_time_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_inicio_hora"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Início"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_inicio_hora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="-:-"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_access_time_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_termino_hora"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Término"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_termino_hora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="-:-"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <!--####################### Contato #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_local_phone_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_contato_telefone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Telefone"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_contato_telefone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="(xx)xxxx-xxxx"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_smartphone_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_contato_celular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Celular"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_contato_celular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="(xx)xxxxx-xxxx"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <!--####################### Endereço #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_map_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_cep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="CEP"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_cep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="xxxxx-xxx"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_map_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_estado"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Estado"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_estado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="Ex: São Paulo"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_map_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_cidade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Cidade"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_cidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="Ex: São Paulo"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_map_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_bairro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Bairro"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_bairro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="Ex: Jardins"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_map_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_local"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Local"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+
+            <EditText
+                android:id="@+id/editText_local"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_event_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_endereco"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Endereço"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/endereco_editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+
+
+            <!--####################### Preço #######################-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_attach_money_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_preco"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Preço"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editText_preco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:inputType="numberDecimal"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <LinearLayout
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_block_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_privacidade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Privacidade"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+
+                <Switch
+                    android:id="@+id/privacidade_switch"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="right"
+                    android:textColor="#fff" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/button_criarEvento"
+                android:layout_width="100dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_arredondado"
+                android:drawableLeft="@drawable/ic_save_white_18dp"
+                android:elevation="@dimen/elevation_high"
+                android:padding="10dp"
+                android:text="@string/salvar"
+                android:textColor="#fff" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_insert_photo_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_imagem_capa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Imagem de capa"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/image_add_evento_1"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:backgroundTint="#78000000"
+                android:src="@drawable/ic_add_a_photo_gold_48dp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="1dp"
+                    android:src="@drawable/ic_photo_camera_gold_48dp" />
+
+                <TextView
+                    android:id="@+id/textView_imagens"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="Imagens de Divulgação"
+                    android:textColor="@color/lojinha"
+                    android:textSize="20dp" />
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/image_add_evento_2"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:backgroundTint="#78000000"
+                android:src="@drawable/ic_add_a_photo_gold_48dp" />
+
+            <ImageButton
+                android:id="@+id/image_add_evento_3"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:backgroundTint="#78000000"
+                android:src="@drawable/ic_add_a_photo_gold_48dp" />
+
+
+            <Button
+                android:id="@+id/button_criarEvento_Foto"
+                android:layout_width="100dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_arredondado"
+                android:drawableLeft="@drawable/ic_save_white_18dp"
+                android:elevation="@dimen/elevation_high"
+                android:padding="10dp"
+                android:text="@string/salvar"
+                android:textColor="#fff" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>

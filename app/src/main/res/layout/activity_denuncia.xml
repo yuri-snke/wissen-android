@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background2"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/wissen_denuncia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textColor="#fff"
+        android:text="Wissen"
+        android:shadowColor="#D49802"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="5"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:id="@+id/linearLayout2">
+
+    <TextView
+        android:id="@+id/motivo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:text="Motivo:" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#50090909"
+            android:lines="1"
+            android:id="@+id/etmotivo"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#fff" />
+
+    <TextView
+        android:id="@+id/obs"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:text="Observações:" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#50090909"
+            android:layout_gravity="top"
+            android:id="@+id/descricao"
+            android:lines="5"
+            android:padding="10dp"
+            android:textColor="#fff" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/send_btn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        android:elevation="@dimen/elevation_high"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button_arredondado2"
+        android:padding="15dp"
+        android:drawableLeft="@drawable/ic_send_white_24dp"
+        android:text="@string/enviar_string"
+        android:layout_below="@+id/linearLayout2" />
+
+</RelativeLayout>

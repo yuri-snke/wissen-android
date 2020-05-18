@@ -1,0 +1,4 @@
+#Thu Jan 02 16:33:58 GMT-03:00 2020
+base.0=C\:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

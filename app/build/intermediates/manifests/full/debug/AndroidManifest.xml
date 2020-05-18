@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cttarde.tcc_wissen"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/wissen_ico"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.MainActivity"
+            android:theme="@style/AppCompat.TelaCheia" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.LoginActivity"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.RegisterActivity"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.cttarde.tcc_wissen.activity.Teste" >
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.cttarde.tcc_wissen.activity.FirstActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.detail.ImageDetailsActivity"
+            android:theme="@style/AppCompat.TelaCheia" >
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.HomeClassActivity"
+            android:theme="@style/AppCompat.TelaCheia" >
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.PerfilActivity"
+            android:theme="@style/AppCompat.TelaCheia" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.BuscaEventosActivity"
+            android:theme="@style/noAnimTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.detail.Denuncia"
+            android:theme="@style/EditTextGold" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.SeguidoresActivity"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.PerfilEdit"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.PalavraChaveActivity"
+            android:theme="@style/EditTextBranco" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.AdicionarEventoActivity"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.detail.MyImageDetailActivity"
+            android:theme="@style/AppCompat.TelaCheia" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.detail.MyImageDetailEdit"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.PerfilSeguidorActivity"
+            android:theme="@style/AppCompat.TelaCheia" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.BuscarPessoasActivity"
+            android:theme="@style/noAnimTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.example.cttarde.tcc_wissen.activity.EventosSeguidosActivity"
+            android:theme="@style/noAnimTheme"
+            android:windowSoftInputMode="stateHidden" />
+    </application>
+
+</manifest>

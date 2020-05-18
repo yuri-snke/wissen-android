@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Wissen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="msgOk">Ok</string>
+
+    <string name="descricao">Ex: Prezados, nosso evento tem a finalidade de oferecer uma
+        oportunidade de reecontro, discussões, troca de experiências, etc.</string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "     A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+    </string>
+
+
+    <!--Pais Array-->
+
+
+    <string-array name="pais_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+
+    <!--Estado Array-->
+
+    <string-array name="estado_arrays">
+        <item>Botar1</item>
+        <item>Botar2</item>
+        <item>Botar3</item>
+        <item>Botar4</item>
+        <item>Botar5</item>
+        <item>Botar6</item>
+        <item>Botar7</item>
+        <item>Botar8</item>
+    </string-array>
+
+
+    <!--Cidade Array-->
+
+    <string-array name="cidade_arrays">
+        <item>Butar1</item>
+        <item>Butar2</item>
+        <item>Butar3</item>
+        <item>Butar4</item>
+        <item>Butar5</item>
+        <item>Butar6</item>
+        <item>Butar7</item>
+        <item>Butar8</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie. Fusce quis mauris a enim sollicitudin ultrices non eget velit. Aliquam eu pulvinar enim. Praesent libero nisl, ultricies vel maximus eu, maximus et nisi. Phasellus pharetra nec ligula vitae mollis. Quisque porttitor ornare magna, quis dignissim libero aliquam id. Donec sollicitudin ultrices ante, a semper erat tristique in. Vivamus sodales in ligula at sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla tempus bibendum nibh, ac tincidunt quam convallis non. Proin dolor nunc, egestas et tortor consequat, dignissim lacinia odio. Ut ut aliquet erat.  Ut non scelerisque elit. Morbi dolor neque, iaculis eu justo rutrum, aliquet dictum mauris. Phasellus quis massa ut ligula feugiat congue a et dolor. Etiam a dui a sapien ornare accumsan ac ut lorem. Suspendisse vehicula lorem dapibus nibh rhoncus ultricies. Proin sem nulla, elementum quis pharetra quis, commodo vitae nisi. Donec urna orci, posuere et iaculis sit amet, fringilla quis sapien. Pellentesque nec posuere felis. Praesent malesuada tellus nisi, non dictum justo interdum eget. Quisque mollis euismod libero, non aliquam lorem interdum vitae. Aliquam vehicula efficitur purus eget rutrum. Sed pulvinar fermentum risus ac viverra. Cras laoreet ligula quam, ac lacinia nisl elementum in. Aenean velit arcu, euismod a venenatis non, pulvinar pulvinar massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie. Fusce quis mauris a enim sollicitudin ultrices non eget velit. Aliquam eu pulvinar enim. Praesent libero nisl, ultricies vel maximus eu, maximus et nisi. Phasellus pharetra nec ligula vitae mollis. Quisque porttitor ornare magna, quis dignissim libero aliquam id. Donec sollicitudin ultrices ante, a semper erat tristique in. Vivamus sodales in ligula at sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla tempus bibendum nibh, ac tincidunt quam convallis non. Proin dolor nunc, egestas et tortor consequat, dignissim lacinia odio. Ut ut aliquet erat.  Ut non scelerisque elit. Morbi dolor neque, iaculis eu justo rutrum, aliquet dictum mauris. Phasellus quis massa ut ligula feugiat congue a et dolor. Etiam a dui a sapien ornare accumsan ac ut lorem. Suspendisse vehicula lorem dapibus nibh rhoncus ultricies. Proin sem nulla, elementum quis pharetra quis, commodo vitae nisi. Donec urna orci, posuere et iaculis sit amet, fringilla quis sapien. Pellentesque nec posuere felis. Praesent malesuada tellus nisi, non dictum justo interdum eget. Quisque mollis euismod libero, non aliquam lorem interdum vitae. Aliquam vehicula efficitur purus eget rutrum. Sed pulvinar fermentum risus ac viverra. Cras laoreet ligula quam, ac lacinia nisl elementum in. Aenean velit arcu, euismod a venenatis non, pulvinar pulvinar massa.</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="more">More</string>
+    <string name="settings">Settings</string>
+    <string name="title_location_permission">Permissão</string>
+    <string name="text_location_permission">É necessario sua Localização para os Eventos Proximos</string>
+    <string name="ok">Ok</string>
+    <string name="salvar_foto">Salvar foto</string>
+    <string name="salvar">Salvar</string>
+    <string name="corfirmar_nova_senha">Corfirmar nova senha</string>
+    <string name="nova_senha">Nova senha</string>
+    <string name="senha_atual">Senha atual</string>
+    <string name="alterar_senha">Alterar senha:</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="cep">Cep</string>
+    <string name="celular">Celular</string>
+    <string name="idade">Idade</string>
+    <string name="nome">Nome</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="imageview">imageView</string>
+    <string name="enviar">Enviar</string>
+    <string name="enviar_string">Enviar</string>
+    <string name="entrar_string">Entrar</string>
+    <string name="imagens_de_divulga_o">Imagens de Divulgação</string>
+    <string name="imagem_de_capa">Imagem de capa</string>
+    <string name="privacidade">Privacidade</string>
+    <string name="pre_o">Preço</string>
+    <string name="local">Local</string>
+    <string name="telefone">Telefone</string>
+    <string name="t_rmino">Término</string>
+    <string name="in_cio">Início</string>
+    <string name="categorias">Categorias</string>
+    <string name="descri_o">Descrição</string>
+    <string name="t_tulo_do_evento">Título do Evento</string>
+    <string name="adicionar_evento">Adicionar Evento</string>
+    <string name="dd_mm_aaaa">dd/mm/aaaa</string>
+    <string name="hint_hora">-:-</string>
+    <string name="xx_xxxx_xxxx">(xx)xxxx-xxxx</string>
+    <string name="xx_xxxxx_xxxx">(xx)xxxxx-xxxx</string>
+    <string name="cep_hint">xxxxx-xxx</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="exibir_senha">Exibir senhas</string>
+    <string name="palavra_secreta">Palavra secreta</string>
+    <string name="complemento">Complemento</string>
+    <string name="endere_o">Endereço</string>
+    <string name="editar_imagens">Editar imagens</string>
+    <string name="teste">Teste</string>
+    <string name="selecione_3_categorias">Selecione 3 categorias</string>
+
+
+</resources>

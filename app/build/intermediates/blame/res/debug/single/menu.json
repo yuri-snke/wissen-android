@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\perfil_edit.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\menu\\perfil_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_navigation.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\suporte_denuncia.xml",
+        "source": "C:\\Users\\Yuri Oliveira\\Desktop\\TCC_Wissen\\app\\src\\main\\res\\menu\\suporte_denuncia.xml"
+    }
+]

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background2"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+
+            <TextView
+                android:id="@+id/cadastrar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:shadowColor="#000"
+                android:shadowDx="3"
+                android:shadowDy="3"
+                android:shadowRadius="5"
+                android:text="@string/cadastrar"
+                android:textColor="#fff"
+                android:textSize="40sp" />
+
+            <EditText
+                android:id="@+id/Reg_campo_nome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/nome"
+                android:lines="1"
+                android:inputType="textCapWords"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <EditText
+                android:id="@+id/Reg_campo_sobrenome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/sobrenome"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989"
+                android:inputType="textCapWords" />
+
+
+            <EditText
+                android:id="@+id/Reg_idade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/idade"
+                android:inputType="number"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <EditText
+                android:id="@+id/Reg_campo_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/e_mail"
+                android:inputType="textEmailAddress"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/Reg_campo_senha"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#78000000"
+                    android:hint="@string/senha"
+                    android:inputType="textPassword"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:paddingEnd="40dp"
+                    android:textColor="#fff"
+                    android:textColorHint="#898989"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+                <ImageButton
+                    android:id="@+id/mostrar_senha_olho2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:backgroundTint="@color/transparente"
+                    android:src="@drawable/ic_remove_red_eye_white_24dp"
+                    />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp"
+                >
+
+                <EditText
+                    android:id="@+id/Reg_campo_conf_senha"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#78000000"
+                    android:hint="@string/confirmar_senha"
+                    android:inputType="textPassword"
+                    android:lines="1"
+                    android:paddingEnd="40dp"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textColor="#fff"
+                    android:textColorHint="#898989"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+                <ImageButton
+                    android:id="@+id/mostrar_senha_olho"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:backgroundTint="@color/transparente"
+                    android:src="@drawable/ic_remove_red_eye_white_24dp"
+                    />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp"
+                >
+
+                <EditText
+                    android:id="@+id/secret"
+                    android:hint="@string/palavra_secreta"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#78000000"
+                    android:inputType="textPassword"
+                    android:lines="1"
+                    android:paddingEnd="40dp"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textColor="#fff"
+                    android:textColorHint="#898989"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+                <ImageButton
+                    android:id="@+id/mostrar_palavra_olho"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:backgroundTint="@color/transparente"
+                    android:src="@drawable/ic_remove_red_eye_white_24dp"
+                    />
+
+            </RelativeLayout>
+
+
+            <!--<EditText-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginBottom="10dp"-->
+                <!--android:background="#78000000"-->
+                <!--android:lines="1"-->
+                <!--android:padding="15dp"-->
+                <!--android:singleLine="true"-->
+                <!--android:textColor="#fff"-->
+                <!--android:textColorHint="#898989" />-->
+
+            <EditText
+                android:id="@+id/Reg_campo_nascimento"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/data_de_nascimento"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <EditText
+                android:id="@+id/Reg_campo_celular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/celular"
+                android:inputType="numberSigned"
+                android:lines="1"
+                android:maxLines="1"
+                android:padding="15dp"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:layout_marginBottom="10dp"
+                    android:background="#78000000"
+                    android:id="@+id/Reg_cep"
+                    android:textColor="#fff"
+                    android:layout_width="match_parent"
+                    android:textColorHint="#898989"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/cep"
+                    android:inputType="numberSigned"
+                    android:padding="15dp" />
+
+                <ProgressBar
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_alignTop="@id/Reg_cep"
+                    android:layout_alignBottom="@id/Reg_cep"
+                    android:layout_alignRight="@id/Reg_cep"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/progressbar"/>
+
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/Reg_endereco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/endere_o"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:maxLines="1"
+                android:padding="15dp"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <EditText
+                android:id="@+id/Reg_complemento"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/complemento"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:maxLines="1"
+                android:padding="15dp"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+
+            <EditText
+                android:id="@+id/Reg_estado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/estado"
+                android:lines="1"
+                android:maxLines="1"
+                android:inputType="textCapWords"
+                android:padding="15dp"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <EditText
+                android:id="@+id/Reg_cidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#78000000"
+                android:hint="@string/cidade"
+                android:inputType="textCapWords"
+                android:lines="1"
+                android:maxLines="1"
+                android:padding="15dp"
+                android:textColor="#fff"
+                android:textColorHint="#898989" />
+
+            <TextView
+                android:id="@+id/textView_sexo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="@string/sexo"
+                android:textColor="#fff"
+                android:textSize="17sp" />
+
+            <RadioGroup
+                android:background="#78000000"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioGroup_sex"
+                android:padding="15dp">
+                <RadioButton
+                    android:textColor="#fff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/masculino"
+                    android:id="@+id/radio_masc"/>
+
+                <RadioButton
+                    android:textColor="#fff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/feminino"
+                    android:id="@+id/radio_fem"/>
+
+            </RadioGroup>
+
+
+            <ImageButton
+                android:id="@+id/button_registrar"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/arrow"
+                android:padding="15dp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>

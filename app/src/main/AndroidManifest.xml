@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cttarde.tcc_wissen">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/wissen_ico"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".activity.MainActivity"
+            android:theme="@style/AppCompat.TelaCheia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.RegisterActivity"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.Teste">
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.FirstActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".detail.ImageDetailsActivity"
+            android:theme="@style/AppCompat.TelaCheia">
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.HomeClassActivity"
+            android:theme="@style/AppCompat.TelaCheia">
+            <intent-filter>
+                <action android:name="android.intent.action.RUN" />
+
+                <uses-permission android:name="android.permission.INTERNET" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.PerfilActivity"
+            android:theme="@style/AppCompat.TelaCheia" />
+        <activity
+            android:name=".activity.BuscaEventosActivity"
+            android:theme="@style/noAnimTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".detail.Denuncia"
+            android:theme="@style/EditTextGold" />
+        <activity
+            android:name=".activity.SeguidoresActivity"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".activity.PerfilEdit"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.PalavraChaveActivity"
+            android:theme="@style/EditTextBranco" />
+        <activity
+            android:name=".activity.AdicionarEventoActivity"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".detail.MyImageDetailActivity"
+            android:theme="@style/AppCompat.TelaCheia" />
+        <activity
+            android:name=".detail.MyImageDetailEdit"
+            android:theme="@style/EditTextGold"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.PerfilSeguidorActivity"
+            android:theme="@style/AppCompat.TelaCheia" />
+        <activity
+            android:name=".activity.BuscarPessoasActivity"
+            android:theme="@style/noAnimTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.EventosSeguidosActivity"
+            android:theme="@style/noAnimTheme"
+            android:windowSoftInputMode="stateHidden" />
+    </application>
+
+</manifest>

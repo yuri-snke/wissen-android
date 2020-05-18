@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/background1"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation_bot"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/background2"
+        app:itemIconTint="@drawable/selecionado"
+        app:itemTextColor="@drawable/selecionado"
+        app:menu="@menu/bottom_navigation"/>
+
+
+
+
+    <!--<ScrollView
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="60dp">-->
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:padding="15dp"
+        android:orientation="vertical">
+
+
+
+        <EditText
+            android:id="@+id/etProcurarEventos"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="#78000000"
+            android:hint="Procurar eventos"
+            android:lines="1"
+            android:padding="15dp"
+            android:textColor="#fff"
+            android:textColorHint="#898989" />
+
+        <!--   <TextView
+               android:id="@+id/procurar_pessoas"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:text="Pessoas"
+               android:textColor="#fff"/>-->
+
+        <ImageButton
+            android:id="@+id/procurar_pessoas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparente"
+            android:text="TESTE"
+            android:src="@drawable/procurar_pessoas"
+            android:layout_gravity="center"
+            android:padding="10dp"/>
+
+
+
+        <ListView
+            android:id="@+id/lvEventos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_top_perfil"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/background2"
+        android:elevation="30dp"
+        android:minHeight="?attr/actionBarSize"
+        app:popupTheme="@style/AppCompat.TelaCheia">
+
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:shadowColor="#000"
+            android:shadowDx="10"
+            android:shadowDy="10"
+            android:shadowRadius="4"
+            android:text="Buscar"
+            android:textColor="#fff"
+            android:textSize="30dp" />
+
+
+    </android.support.v7.widget.Toolbar>
+
+
+</android.support.design.widget.CoordinatorLayout>

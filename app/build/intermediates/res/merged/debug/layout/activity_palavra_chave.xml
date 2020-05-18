@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background2"
+    android:padding="20dp"
+    >
+
+    <TextView
+        android:id="@+id/wissen_denuncia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textColor="#fff"
+        android:text="Wissen"
+        android:shadowColor="#D49802"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="5"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:id="@+id/linearLayout2"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/word"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="30dp"
+            android:text="Palavra Secreta" />
+
+        <RelativeLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/Palavra_Chave"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#50090909"
+                android:paddingEnd="40dp"
+                android:inputType="textPassword"
+                android:lines="1"
+                android:padding="10dp"
+                android:singleLine="true"
+                android:textColor="#fff" />
+
+
+
+            <ImageButton
+                android:id="@+id/mostrar_palavra_chave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:backgroundTint="@color/transparente"
+                android:src="@drawable/ic_remove_red_eye_white_24dp"
+                />
+
+        </RelativeLayout>
+
+
+        <Button
+            android:id="@+id/lock_btn"
+            android:layout_width="100dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/button_arredondado2"
+            android:drawableLeft="@drawable/ic_lock_white_24dp"
+            android:elevation="@dimen/elevation_high"
+            android:padding="10dp"
+            android:text="@string/entrar_string"
+            android:textColor="#fff" />
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_top"
+        android:layout_height="55dp"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@drawable/background2"
+        android:elevation="30dp">
+
+        <TextView
+            android:shadowColor="#000"
+            android:shadowDx="10"
+            android:shadowDy="10"
+            android:shadowRadius="4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eventos Seguidas"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+            android:textSize="30dp"
+            android:id="@+id/toolbar_title" />
+
+    </android.support.v7.widget.Toolbar>
+
+
+    <FrameLayout
+        android:background="@drawable/background1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="60dp"
+            android:layout_marginTop="60dp">
+
+            <ImageButton
+                android:layout_marginTop="5dp"
+                android:id="@+id/eventos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/transparente"
+                android:text="TESTE"
+                android:src="@drawable/procurar_pessoas"
+                android:layout_gravity="center"
+                android:padding="10dp"/>
+
+            <ListView
+                android:id="@+id/list_Eventos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!--<android.support.v7.widget.RecyclerView-->
+            <!--android:id="@+id/recycler_view"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:scrollbars="vertical" />-->
+
+
+        </LinearLayout>
+
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigation_bot"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/background2"
+            app:itemIconTint="@drawable/selecionado"
+            app:itemTextColor="@drawable/selecionado"
+            app:menu="@menu/bottom_navigation"/>
+
+
+    </FrameLayout>
+
+</android.support.design.widget.CoordinatorLayout>

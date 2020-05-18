@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\libs\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_cbf9f36df277b486133429e3dfb59fd3ea557b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\fb96249b33086dee5caa7e42214c6961da8322d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_21aa9fe3ab820f75482679d95bf8f35235f3a7a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7d25245770bec7931bb87dc8dbead46a45da1008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\d13e25f5ebb67f06bd0da58baeaf4975cc953b8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_fbc040871ca992ede152454df9d97ea8a12e51dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\otto-1.3.8_581fbe7dc88953294f9972900cfb433da7673675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\751248b6792bc9bff0c3f695dc202035c8a4b39a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_1605cb9539fb6479fceaf458d6a0ea12ef98bf48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\1e2413651746a7a81f56f92e53778c0e4ce8b1f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_8e031cb7afffc35d4a71d3da59f9fe0ddc9007e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\f65cb44ad6d62f4f890821b34d1de2c339b089f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a3c169f79229ba601a876a2d78b9fecd83bb9d9">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_a317f1975bff312ab5975b262ca39ae1719b39f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_711513900b7a8cef12fe3722991b26ad418155ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\f863962497bf3b69245c11bad5ea5bd5941a6994\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_e90c94309fed5aec4efade40bb2346013b81fcb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\ff0b9e07cf5c1533790298f87f665f7c485a65fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_c42a30bcb51935bbac5a4cf402d07e15e2a4c1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\52c4c7a8fb25ea6b94baf2ca2b229cc1e6f1e4dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_5a26b683f38d6741c3f771fd8e7a81e238a564ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_766e6ea2aafbe4bb37d093865445d5a6db4e4770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\ead1ed3f89a6567befe6bf6dff817e607302ad42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_0a479927d0fdd78c66b7e70f4a0841031e34dcf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\bf0290cff7a2433b5a70683c67ee00f35023ab6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_369cb09b9a5a1f373b8754ce03bb58ac2d994747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\library-2.4.0_6fc258ae61a179aaa3b6a59b1e8811fc5a323cba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\e376c0197612e81821b2891cf4933af5c9837d3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_7c3fc6dc2073f14e2901db1ee9f37371d27954e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\libs\commons-fileupload-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd968960d004ba8863a2e7b9c88f260aa588c22d">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\commons-fileupload-1.2.1_a2ad34228a4213e84f0cafab358320201026dc77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\42bd34696d5c9f3cd7f186471ede62f256792892\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_ecc02dce66a6b3926f530cdf2a8b60ae06ca973f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\a50da709142ec57af65ff9295e127a01dd518e3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_99b7b3f3974bb0c89af5c96c8f48b06e7eee8a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\b66e9dcb8ae5cf4a5c3245e8f0f16218da3ad19d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_abf94a700aed421e94a8ee4219ba931ca5430048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\commons-io-2.0.1_c26a2499ccc68db24aa52a3317458e99e007bc36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\41281481c2a94d4385c2c38b96195d49ae383651\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8646b1e69dd5d923d8866dc4311859f0fbca456c">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_aa8a0a4a9642d02ae52a7f04082f1d7032950837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\d859be6cbacc8611125410fc7cc00f5464a27ab2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_8c064a965bfea4f1aa0642ef494d1a035b71f46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\library-1.0.19_d8d46d23ec4144339081376d35b6aeaaed8f75cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\e852cd7bc10c61e066d9861de3d9776e30d1f3d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_eb16052ffc0829eb53f598fac6b0490540515747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yuri Oliveira\.android\build-cache\e7d900a8f8140ef90fb73c720bf314cec35f8f6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\Yuri Oliveira\Desktop\TCC_Wissen\app\build\intermediates\pre-dexed\debug\classes_d787bae4dc3c91b2de1b9b6d91698561094e0cac.jar" />
+    </item>
+
+</items>

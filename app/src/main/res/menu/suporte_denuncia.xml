@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.cttarde.tcc_wissen.detail.ImageDetailsActivity" >
+
+    <item android:id="@+id/descartar_denuncia"
+        android:title="Descartar denuncia" />
+
+</menu>

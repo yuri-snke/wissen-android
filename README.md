@@ -10,7 +10,7 @@ Essa aplicação que tem como função gerenciar eventos, foi desenvolvida com a
 
 ## Configuração
   
-- Após o clone do projeto, mover a pasta Wissen que está em [web service com dump .sql](https://bitbucket.org/yuri-snke/wissen-aplicacao-android/src/master/web%20service%20com%20dump%20.sql/) para o diretório do XAMPP dentro da htdocs.
+- Após o clone do projeto, mover a pasta Wissen que está em [web service com dump .sql](https://github.com/yurisnke/Wissen-ANDROID/tree/master/web%20service%20com%20dump%20.sql) para o diretório do XAMPP dentro da htdocs.
 - Inserir o banco de dados no mysql.
 - Caso haja ncessidade de utilizar o webservice a partir de outro local, modificar o endereço IP da classe IPRequest.java dentro da pasta app/src/main/java/com/example/cttarde/tcc_wissen/DPO/.
 ```  

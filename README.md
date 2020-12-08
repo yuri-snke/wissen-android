@@ -28,7 +28,7 @@ Essa aplicação que tem como função gerenciar eventos, foi desenvolvida com a
   Gustavo Daniel - Front-End Mobile  
   Gabriel Moreira - Back-End WEB  
   Victor Mota - Back-End Mobile  
-  Yuri Oliveira - DBA  
+  Yuri Oliveira - Back-End DBA  
 
 ## Documentação
 
